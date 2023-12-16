@@ -1,0 +1,70 @@
+.fondo{
+
+    background:url('./../assets/img/110582-vino.jpg') no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.acrilico{
+  
+    background-color: rgba(255, 255, 255, 0.11);/* Cambia el fondo a un color semi-transparente */
+    
+    border: 2px solid rgba(255, 255, 255, 0.063);
+    border-radius: 15px;
+    backdrop-filter: blur(5px);
+    
+  }
+
+.fondo2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 84vh;
+    width: 100%;
+    background:url('./../assets/img/110582-vino.jpg') no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .imagen{
+    width: 60%;
+  }
+
+  .caja{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   
+  }
+
+  .display{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+  }
+
+
+
+  .integrantes {
+    width: 20rem;
+    
+
+  }
+
+  .integrantes h3{
+    text-align: center;
+  }
+
+  .integrantes ul{
+    font-size: 20px;
+    margin-top: 5rem;
+  }
+
+  .integrantes li{
+    margin-bottom: 2rem;
+  }
+
+ 
