@@ -47,4 +47,4 @@ php artisan db:seed
 ```
 
 ## Créditos
-- Este proyecto fue realizado utilizando como referencia el contenido del canal de YouTube [SakCode]
+- Este proyecto fue realizado utilizando como referencia el contenido del canal de YouTube [SakCode](https://www.youtube.com/@sakcode) .
