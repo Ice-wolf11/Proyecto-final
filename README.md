@@ -4,7 +4,7 @@
 ## Integrantes:
 - Samuel Elias Chipana Tito
 - Yubert Omar Dueñas Cornejo
-- Andrew Abdul Medina Wartho
+- Andrew Abdul Medina Warthon
 
 ## Instalación
 - Crear la base de datos con el nombre "proyectolaravel" ubicado en la carpeta "Db" e importar el archivo "proyectolaravel.sql".
