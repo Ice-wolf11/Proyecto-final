@@ -28,7 +28,7 @@ DB_PASSWORD=
 - Ejecutar el siguiente comando para generar la clave de seguridad:
 
 ```bash
-php artisan key generate
+php artisan key:generate
 ```
 
 - Ejecutar el proyecto:
