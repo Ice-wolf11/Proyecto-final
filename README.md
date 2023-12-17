@@ -6,8 +6,8 @@
 - Yubert Omar Dueñas Cornejo
 - Andrew Abdul Medina Warthon
 
-## Enlace a la pagina
- [pulse aquí](https://aplicacionlaravel.000webhostapp.com/) 
+## Enlace a la pagina [pulse aquí](https://aplicacionlaravel.000webhostapp.com/) 
+
 
 ## Instalación
 - Crear la base de datos con el nombre "proyectolaravel" ubicado en la carpeta "Db" e importar el archivo "proyectolaravel.sql".
